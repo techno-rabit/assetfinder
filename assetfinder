@@ -1,0 +1,8 @@
+#! /bin/bash
+echo"Welcome To Asset Finder [By: Teachno-Rabit]"
+read -p " Enter the domain " dom
+echo "_______________________***_____________________________"
+assetfinder $dom
+echo "____________________________________________________________________________"
+echo " Aseetfinder completed $dom scanning , Thanks for using assetfinder"
+echo "____________________________________________________________________________"
