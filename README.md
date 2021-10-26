@@ -23,10 +23,6 @@
 ```
 git clone git://github.com/techno-rabit/assetfinder.git ; cd assetfinder ; bash assetfinder
 ```
-<br>
-<p align="center">
-<img width="50%" src="Rab1.png"/>
-<img width="46%" src="Rab2.png"/>
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-Techno--rabit-green?style=for-the-badge&logo=github)](https://github.com/techno-rabit)
